@@ -1,0 +1,37 @@
+[
+    
+    {"ID":42,"title":"Ben Shneiderman","content":
+        "<p>A picture is worth a thousand words. An interface is worth a thousand pictures.  <\/p>\n","link":"https:\/\/quotesondesign.com\/ben-shneiderman\/"},
+    
+    {"ID":984,"title":"Peter Fraterdeus","content":
+        "<p>[Degenerate type is] a form of canned cynicism which will doom its perpetrators to a special room in hell where lovely little children of all races, creeds, and religions are eternally batched in gentle rosy and amber glows, singing &#8220;It&#8217;s a small world after all.&#8221; There&#8217;s no reason to create an alphabet which looks like it leaked out a diaper.  <\/p>\n","link":"https:\/\/quotesondesign.com\/peter-fraterdeus\/"},
+
+    {"ID":1900,"title":"Andrew Spittle","content":
+        "<p>If a feature or product were legitimately easy the user would not be writing in to support about how stuck they are. Sure, some percentage of users will find questions to ask about any interface. But do you want to start the conversation by assuming the user falls into that percentage? You venture to learn much more if you assume the software is wrong, not the user.<\/p>\n","link":"https:\/\/quotesondesign.com\/andrew-spittle\/","custom_meta":
+    
+    {"Source":"<a href=\"http:\/\/andrewspittle.net\/2012\/01\/31\/avoiding-easy\/\">article<\/a>"}},
+
+    {"ID":1882,"title":"Jack Schulze","content":
+        "<p>Some people say design is about solving problems. Obviously designers solve problems but so do dentists. Design is about cultural invention.<\/p>\n","link":"https:\/\/quotesondesign.com\/jack-schulze\/","custom_meta":
+    
+    {"Source":"<a href=\"http:\/\/www.youtube.com\/watch?feature=player_detailpage&v=w3cCpvCubyw\">video<\/a>"}},
+
+    {"ID":574,"title":"Jack H. Summerford","content":
+        "<p>If you have a great idea, it will tell you how to execute it.  <\/p>\n","link":"https:\/\/quotesondesign.com\/jack-h-summerford\/"},
+
+{"ID":1934,"title":"Andy Clarke","content":
+    "<p>Web design is responsive design. Responsive web design is web design, done right.<\/p>\n","link":"https:\/\/quotesondesign.com\/andy-clarke-2\/"},
+
+{"ID":1608,"title":"William Mocca","content":
+    "<p>Wondering is the seed of genius.<\/p>\n","link":"https:\/\/quotesondesign.com\/william-mocca\/"},
+
+{"ID":1398,"title":"Jason Santa Maria","content":
+    "<p>Design is not about innovation. Design is about communication. Innovation in design is usually a wonderful byproduct or direct result of a particular need. Design that seeks to foremost be innovative will commonly fall apart under its own stylistic girth.  <\/p>\n","link":"https:\/\/quotesondesign.com\/jason-santa-maria\/","custom_meta":
+    
+    {"Source":"<a href=\"http:\/\/v3.jasonsantamaria.com\/archive\/\/2006\/02\/02\/utl_2_critiquing.php\">article<\/a>"}},
+
+    {"ID":481,"title":"Frank Chimero","content":
+        "<p>People ignore design that ignores people.  <\/p>\n","link":"https:\/\/quotesondesign.com\/frank-chimero\/"},
+
+{"ID":58,"title":"Jesse James Garrett","content":
+    "<p>Problems with visual design can turn users off so quickly that they never discover all the smart choices you made with navigation or interaction design.  <\/p>\n","link":"https:\/\/quotesondesign.com\/jesse-james-garrett\/"}]
